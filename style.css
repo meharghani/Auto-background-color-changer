@@ -1,0 +1,18 @@
+.container{
+    width: 90%;
+    height: 90vh;
+    background-color: inherit;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+button{
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 20px;
+    cursor: pointer;
+    width: 150px;
+    margin-left: 10px;
+}
